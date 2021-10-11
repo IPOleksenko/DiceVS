@@ -57,3 +57,4 @@ def end():
 def win():
     print(wi.format(m, n, b))
 start()
+#Author: IPOleksenko
